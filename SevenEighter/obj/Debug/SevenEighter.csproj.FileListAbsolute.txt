@@ -9,12 +9,12 @@ c:\users\jaxbot\documents\visual studio 2012\Projects\Crapps\SevenEighter\SevenE
 c:\users\jaxbot\documents\visual studio 2012\Projects\Crapps\SevenEighter\SevenEighter\obj\Debug\SevenEighter.pdb
 c:\users\jaxbot\documents\visual studio 2012\Projects\Crapps\SevenEighter\SevenEighter\obj\Debug\SevenEighter.languagelist.resources
 C:\Users\Jaxbot\Documents\Visual Studio 2012\Projects\SevenEighter\SevenEighter\bin\Debug\SevenEighter.exe.config
-C:\Users\Jaxbot\Documents\Visual Studio 2012\Projects\SevenEighter\SevenEighter\obj\Debug\SevenEighter.exe
-C:\Users\Jaxbot\Documents\Visual Studio 2012\Projects\SevenEighter\SevenEighter\obj\Debug\SevenEighter.pdb
+C:\Users\Jaxbot\Documents\Visual Studio 2012\Projects\SevenEighter\SevenEighter\bin\Debug\SevenEighter.exe
+C:\Users\Jaxbot\Documents\Visual Studio 2012\Projects\SevenEighter\SevenEighter\bin\Debug\SevenEighter.pdb
 C:\Users\Jaxbot\Documents\Visual Studio 2012\Projects\SevenEighter\SevenEighter\obj\Debug\SevenEighter.csprojResolveAssemblyReference.cache
 C:\Users\Jaxbot\Documents\Visual Studio 2012\Projects\SevenEighter\SevenEighter\obj\Debug\SevenEighter.Form1.resources
 C:\Users\Jaxbot\Documents\Visual Studio 2012\Projects\SevenEighter\SevenEighter\obj\Debug\SevenEighter.languagelist.resources
 C:\Users\Jaxbot\Documents\Visual Studio 2012\Projects\SevenEighter\SevenEighter\obj\Debug\SevenEighter.Properties.Resources.resources
 C:\Users\Jaxbot\Documents\Visual Studio 2012\Projects\SevenEighter\SevenEighter\obj\Debug\SevenEighter.csproj.GenerateResource.Cache
-C:\Users\Jaxbot\Documents\Visual Studio 2012\Projects\SevenEighter\SevenEighter\bin\Debug\SevenEighter.exe
-C:\Users\Jaxbot\Documents\Visual Studio 2012\Projects\SevenEighter\SevenEighter\bin\Debug\SevenEighter.pdb
+C:\Users\Jaxbot\Documents\Visual Studio 2012\Projects\SevenEighter\SevenEighter\obj\Debug\SevenEighter.exe
+C:\Users\Jaxbot\Documents\Visual Studio 2012\Projects\SevenEighter\SevenEighter\obj\Debug\SevenEighter.pdb

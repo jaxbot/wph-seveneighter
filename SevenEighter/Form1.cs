@@ -24,7 +24,8 @@ namespace SevenEighter
         public Form1()
         {
             InitializeComponent();
-            if (System.Environment.GetFolderPath(Environment.SpecialFolder.ProgramFiles).Contains("x86"))
+ 
+            if (System.Environment.GetFolderPath(Environment.SpecialFolder.ProgramFilesX86).Contains("x86"))
             {
                 //hack: it's a 64-bit os
                 bin += @"\x64\UpdateWP.exe";
@@ -58,7 +59,7 @@ namespace SevenEighter
             pro.WaitForExit();
 
             string output = pro.StandardOutput.ReadToEnd();
-
+            System.Diagnostics.Debug.WriteLine(output);
             if (output.Contains("Zune is currently running"))
             {
                 MessageBox.Show("Zune is running. Close it and try again.");
@@ -240,11 +241,39 @@ namespace SevenEighter
             }
             if (currentversion.Contains("8858"))
             {
-                
+                lblStatus.Text = "Downloading WP7.8 fix...";
+
+                packages.Clear();
+
+                packages.Add(availablePackages.ver8860);
+
+                System.Threading.Thread th = new System.Threading.Thread(() =>
+                {
+                    installPackages();
+                });
+                th.Start();
+
+            }
+            if (currentversion.Contains("8860"))
+            {
+                lblStatus.Text = "Downloading WP7.8 fix #2...";
+
+                packages.Clear();
+
+                packages.Add(availablePackages.ver8862);
+
+                System.Threading.Thread th = new System.Threading.Thread(() =>
+                {
+                    installPackages();
+                });
+                th.Start();
+            }
+            if (currentversion.Contains("8862"))
+            {
                 progressBar1.Enabled = false;
-                
+
                 MessageBox.Show("Congratulations! You're done!");
-                this.Close();
+
             }
             
         }

@@ -170,6 +170,13 @@ namespace SevenEighter
                                                 "http://download.windowsupdate.com/msdownload/update/software/dflt/2012/11/diff-7.10.8783.12-7.10.8858.136-armv7-retail-microsoft.lang_0809.pks_45cef4457233690e536db6b7821af0a39b8aeb98.cab", 
                                                 "http://download.windowsupdate.com/msdownload/update/software/dflt/2012/11/diff-7.10.8783.12-7.10.8858.136-armv7-retail-microsoft.lang_0816.pks_8d78f889ff380ced118e823feed328487dce668b.cab",
                                                 "http://download.windowsupdate.com/msdownload/update/software/dflt/2012/11/diff-7.10.8783.12-7.10.8858.136-armv7-retail-microsoft.lang_0c0a.pks_29c153eae13ce7184ac8abc63eb6345694e9fce0.cab"};
+
+        public static string ver8860 = "http://download.windowsupdate.com/msdownload/update/software/dflt/2013/02/diff-7.10.8858.136-7.10.8860.142-armv7-retail-microsoft.pks_4a5e9f454174c7bdcb2da953d1e18fe5443ba7e8.cab";
+
+        public static string ver8862 = "http://download.windowsupdate.com/msdownload/update/software/dflt/2013/03/diff-7.10.8860.142-7.10.8862.144-armv7-retail-microsoft.plustuner.pks_d802531eab4e9bce3ab747805ea7e33fc8cd29bf.cab";
+    
     }
+
+    
 
 }
